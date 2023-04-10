@@ -1,0 +1,15 @@
+C:\Users\33984578865\Desktop\1to10\bin\Debug\net7.0\1to10.exe
+C:\Users\33984578865\Desktop\1to10\bin\Debug\net7.0\1to10.deps.json
+C:\Users\33984578865\Desktop\1to10\bin\Debug\net7.0\1to10.runtimeconfig.json
+C:\Users\33984578865\Desktop\1to10\bin\Debug\net7.0\1to10.dll
+C:\Users\33984578865\Desktop\1to10\bin\Debug\net7.0\1to10.pdb
+C:\Users\33984578865\Desktop\1to10\obj\Debug\net7.0\1to10.csproj.AssemblyReference.cache
+C:\Users\33984578865\Desktop\1to10\obj\Debug\net7.0\1to10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33984578865\Desktop\1to10\obj\Debug\net7.0\1to10.AssemblyInfoInputs.cache
+C:\Users\33984578865\Desktop\1to10\obj\Debug\net7.0\1to10.AssemblyInfo.cs
+C:\Users\33984578865\Desktop\1to10\obj\Debug\net7.0\1to10.csproj.CoreCompileInputs.cache
+C:\Users\33984578865\Desktop\1to10\obj\Debug\net7.0\1to10.dll
+C:\Users\33984578865\Desktop\1to10\obj\Debug\net7.0\refint\1to10.dll
+C:\Users\33984578865\Desktop\1to10\obj\Debug\net7.0\1to10.pdb
+C:\Users\33984578865\Desktop\1to10\obj\Debug\net7.0\1to10.genruntimeconfig.cache
+C:\Users\33984578865\Desktop\1to10\obj\Debug\net7.0\ref\1to10.dll
